@@ -1,0 +1,22 @@
+{
+    "problem_title": "problem title",
+    "problem_type": "stdio",
+    "checker": "",
+    "checker_language": "",
+    "validator": "",
+    "validator_language": "",
+    "limits": {
+        "time": 2000,
+        "memory": 128000000,
+        "factor": {}
+    },
+    "enable_language": [],
+    "statements": [],
+    "solutions": [],
+    "generators": [],
+    "genscript": [],
+    "versions": {
+        "config": 1,
+        "repository": 1
+    }
+}
