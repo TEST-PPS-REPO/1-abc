@@ -1,8 +1,8 @@
 {
     "problem_title": "problem title",
     "problem_type": "stdio",
-    "checker": "wcmp.cc",
-    "checker_language": "cpp",
+    "checker": "abc.cc",
+    "checker_language": "",
     "validator": "",
     "validator_language": "",
     "limits": {
