@@ -11,7 +11,12 @@
         "factor": {}
     },
     "enable_language": [],
-    "statements": [],
+    "statements": [
+        {
+            "name": "statement.md",
+            "label": ""
+        }
+    ],
     "solutions": [],
     "generators": [],
     "genscript": [],
