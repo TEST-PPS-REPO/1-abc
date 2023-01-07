@@ -2,7 +2,7 @@
     "problem_title": "problem title",
     "problem_type": "stdio",
     "checker": "abc.cc",
-    "checker_language": "",
+    "checker_language": "cpp11",
     "validator": "",
     "validator_language": "",
     "limits": {
