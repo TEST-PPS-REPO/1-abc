@@ -1,7 +1,7 @@
 {
     "problem_title": "problem title",
     "problem_type": "stdio",
-    "checker": "",
+    "checker": "wcmp.cc",
     "checker_language": "",
     "validator": "",
     "validator_language": "",
