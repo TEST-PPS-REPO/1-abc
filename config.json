@@ -28,7 +28,8 @@
     "solutions": [
         {
             "name": "solution.cc",
-            "language": "cpp"
+            "language": "cpp",
+            "type": "MCS"
         }
     ],
     "generators": [],
