@@ -56,7 +56,7 @@
     "genscript": [
         {
             "script": "random 1",
-            "description": "",
+            "description": "description",
             "is_example": false,
             "only_deploy": false
         }
