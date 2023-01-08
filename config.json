@@ -50,7 +50,7 @@
     "generators": [
         {
             "name": "abcd",
-            "language": "cpp",
+            "language": "cpp11",
             "alias": ""
         },
         {
