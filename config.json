@@ -28,12 +28,8 @@
     "solutions": [
         {
             "name": "abcde",
-            "language": ""
-        },
-        {
-            "name": "solution.cc",
             "language": "cpp",
-            "type": "MCS"
+            "type": ""
         },
         {
             "name": "abcdef",
@@ -44,6 +40,11 @@
             "name": "asdf",
             "language": "",
             "type": ""
+        },
+        {
+            "name": "solution.cc",
+            "language": "cpp",
+            "type": "MCS"
         }
     ],
     "generators": [
