@@ -52,6 +52,11 @@
             "name": "generator.py",
             "language": "py3",
             "alias": "random"
+        },
+        {
+            "name": "abcd",
+            "language": "",
+            "alias": ""
         }
     ],
     "genscript": [
