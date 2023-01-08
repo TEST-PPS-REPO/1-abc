@@ -27,10 +27,6 @@
     ],
     "solutions": [
         {
-            "name": "abcdef",
-            "language": ""
-        },
-        {
             "name": "solution.cc",
             "language": "cpp",
             "type": "MCS"
