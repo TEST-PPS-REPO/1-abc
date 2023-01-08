@@ -25,7 +25,12 @@
             "label": ""
         }
     ],
-    "solutions": [],
+    "solutions": [
+        {
+            "name": "solution.cc",
+            "language": "cpp"
+        }
+    ],
     "generators": [],
     "genscript": [],
     "versions": {
