@@ -49,14 +49,14 @@
     ],
     "generators": [
         {
+            "name": "abcd",
+            "language": "cpp11",
+            "alias": ""
+        },
+        {
             "name": "generator.py",
             "language": "py3",
             "alias": "random"
-        },
-        {
-            "name": "abcd",
-            "language": "cpp",
-            "alias": ""
         }
     ],
     "genscript": [
