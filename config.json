@@ -3,7 +3,7 @@
     "problem_type": "stdio",
     "checker": "wcmp.cc",
     "checker_language": "cpp11",
-    "validator": "abcde",
+    "validator": "validator.py",
     "validator_language": "",
     "limits": {
         "time": 2000,
