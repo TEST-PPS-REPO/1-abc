@@ -46,7 +46,13 @@
             "type": ""
         }
     ],
-    "generators": [],
+    "generators": [
+        {
+            "name": "generator.py",
+            "language": "",
+            "alias": ""
+        }
+    ],
     "genscript": [],
     "versions": {
         "config": 1,
