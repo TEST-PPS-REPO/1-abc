@@ -49,8 +49,8 @@
     "generators": [
         {
             "name": "generator.py",
-            "language": "",
-            "alias": ""
+            "language": "py3",
+            "alias": "random"
         }
     ],
     "genscript": [],
