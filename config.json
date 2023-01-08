@@ -27,9 +27,18 @@
     ],
     "solutions": [
         {
+            "name": "abcde",
+            "language": ""
+        },
+        {
             "name": "solution.cc",
             "language": "cpp",
             "type": "MCS"
+        },
+        {
+            "name": "abcdef",
+            "language": "",
+            "type": ""
         }
     ],
     "generators": [],
